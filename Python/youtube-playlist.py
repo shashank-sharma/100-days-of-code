@@ -21,8 +21,9 @@ url = raw_input()
 print('[Getting data]:'),
 # If URL is taken while watching from playlist then it will get real link.
 
-url = url.split('&')
-url = "https://www.youtube.com/playlist?"+url[1]
+if '&' in url:
+    url = url.split('&')
+    url = "https://www.youtube.com/playlist?"+url[1]
 try:
     r = requests.get(url)
 except:
