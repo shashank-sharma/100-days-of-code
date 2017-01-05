@@ -11,6 +11,20 @@ import requests
 from bs4 import BeautifulSoup
 import youtube_dl
 
+
+def ytAudio(link):
+    ydl_opts = {
+        'format': 'bestaudio/best',
+        'postprocessors': [{
+            'key': 'FFmpegExtractAudio',
+            'preferredcodec': 'mp3',
+            'preferredquality': '192',
+        }],
+    }
+    with youtube_dl.YoutubeDL(ydl_opts) as ydl:
+        ydl.download([link])
+    return 1
+
 def ytDownload(link):
     ydl_opts = {}
     with youtube_dl.YoutubeDL(ydl_opts) as ydl:
@@ -34,6 +48,7 @@ print('Done')
 links = soup.find_all("a",{"class": "pl-video-title-link yt-uix-tile-link yt-uix-sessionlink  spf-link "})
 count = 0
 completed = 0
+choice = 1
 file = open("youtube-links.txt","w")
 for i in links:
     url = str(i['href'])
@@ -49,6 +64,8 @@ print('[download]: All links are saved in youtube-links.txt')
 print("[download]: Enter those numbers which you don't want to download like: 1 2 3")
 ignore = map(int, raw_input().split())
 
+print('[download]: Enter 1 for Video and 2 for Audio'),
+choice = int(raw_input())
 x = 1
 file = open("youtube-links.txt","r")
 for i in file:
@@ -56,7 +73,10 @@ for i in file:
         print ('[download '+ str(x)+'/'+str(count)+'] : Skip')
     else:
         print ('[download '+ str(x)+'/'+str(count)+']')
-        completed += ytDownload(i)
+        if choice == 1:
+            completed += ytDownload(i)
+        else:
+            completed += ytAudio(i)
     x+=1
 file.close()
 
