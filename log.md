@@ -17,3 +17,7 @@ Had some problem working today. Even though I studied much about images scraping
 ### Day 4: January 6, 2017
 
 Created one program which will open URL and then it will scrape all the img tag. After scraping it will gather all the source of images and then it will save it locally with their respective extension. If extension is unknown then it will first confirm what is extension and then it will save it else it will ignore.
+
+### Day 5: January 7, 2017
+
+One more project which reminds you if there is any new update on any one of your favourate youtube channel or not. Also I practiced 4 - 5 questions in Hackerearth and studied some Algorithm.
