@@ -14,6 +14,7 @@ center{
   padding-left: 30px;
   font-size: 50px;
   font-weight: bold;
+  text-shadow: 5px 5px black;
 }
 footer{
   color: white;
@@ -178,4 +179,10 @@ section#timeline article:nth-child(5) div.inner h2 {
 section#timeline article:nth-child(5) div.inner h2:after {
   background: #e74c3c;
   box-shadow: 5px 10px black;
+}
+section#timeline article:nth-child(6) div.inner h2 {
+  background: #e74c3c;
+}
+section#timeline article:nth-child(6) div.inner h2:after {
+  background: #e74c3c;
 }
