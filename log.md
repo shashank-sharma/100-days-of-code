@@ -21,3 +21,7 @@ Created one program which will open URL and then it will scrape all the img tag.
 ### Day 5: January 7, 2017
 
 One more project which reminds you if there is any new update on any one of your favourate youtube channel or not. Also I practiced 4 - 5 questions in Hackerearth and studied some Algorithm.
+
+### Day 6: January 8, 2017
+
+Python Tweet follower geolocation projet which search geolocation of all followers of that particular page and then plot graph in ploty. Also studied C programming language. In Hackerearth site I participated in NIT Bhopal competition and secured 50th position among 500+ users.
