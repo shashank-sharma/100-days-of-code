@@ -25,3 +25,7 @@ One more project which reminds you if there is any new update on any one of your
 ### Day 6: January 8, 2017
 
 Python Tweet follower geolocation projet which search geolocation of all followers of that particular page and then plot graph in ploty. Also studied C programming language. In Hackerearth site I participated in NIT Bhopal competition and secured 50th position among 500+ users.
+
+### Day 7: January 9, 2017
+
+Learning Django and its looking quite complicated. Will start making project by tomorrow. Also updated my website and made project.html which will have all the information about my project. Also studied 1 Algorithm :D.
