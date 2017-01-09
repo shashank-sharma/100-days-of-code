@@ -1,0 +1,65 @@
+<html>
+<head>
+  <link type="text/css" rel="stylesheet" href="add.css">
+</head>
+<body>
+<div id="prog">
+  <div id="progbar"></div>
+  </div>
+<br>
+<div style="color: white">&nbsp&nbsp&nbsp#100DaysOfCode</div>
+<br><br>
+<br><br>
+<div class="proj">
+<div class="project">
+Imdb web scraper
+</div>
+<div class="project">
+Youtube Playlist downloade
+</div>
+<div class="project">
+Scraping images and downloading
+</div>
+<div class="project">
+Youtube Channel Reminder
+</div>
+<div class="project">
+Twitter followers geolocation
+</div>
+</div>
+<div class="content">
+<hr>
+<div class = "head-line" style="color: white">Update:</div>
+<p style="color: white">
+<br>
+<ul style="color: white">
+  <li>Created progress bar with box-shadow on content</li>
+  <li>Added Footer with heart</li>
+  <li>Add Github ribbon</li>
+  <li>Website created - Timeline, div, content box</li>
+</ul>
+</p>
+<hr>
+</div>
+<script>
+  var elem = document.getElementById("progbar");
+  var width = 1;
+  var id = setInterval(frame, 10);
+  function frame() {
+    if (width >= 6) {
+      clearInterval(id);
+    } else {
+      width+=0.04;
+      elem.style.width = width + '%'; 
+    }
+  }
+</script>
+</body>
+<footer>
+<br>
+<br>
+	<p style="color: white">
+	<center>Made with <img src = "images/heart.png" height="20px" width="20px"> by Shashank</center>
+	</p>
+</footer>
+</html>
