@@ -29,3 +29,7 @@ Python Tweet follower geolocation projet which search geolocation of all followe
 ### Day 7: January 9, 2017
 
 Learning Django and its looking quite complicated. Will start making project by tomorrow. Also updated my website and made project.html which will have all the information about my project. Also studied 1 Algorithm :D.
+
+### Day 8: January 10, 2017
+
+Again learning Django + studying C + updated my website + Had some fun with compeititve programming + web scraping governement site to receive data related admit card.
