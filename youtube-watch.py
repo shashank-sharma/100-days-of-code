@@ -89,7 +89,7 @@ if num == 0:
 	r = requests.get(url+name)
 	print '.',
 	soup = BeautifulSoup(r.content)
-	user = soup.find_all('a',{'class': ' yt-uix-sessionlink g-hovercard      spf-link '})
+	user = soup.find_all('a',{'class': 'yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 g-hovercard yt-uix-sessionlink      spf-link '})
 	for i in user:
 		temp = i['href']
 		temp = temp.split('/')
