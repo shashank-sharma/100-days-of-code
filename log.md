@@ -33,3 +33,7 @@ Learning Django and its looking quite complicated. Will start making project by 
 ### Day 8: January 10, 2017
 
 Again learning Django + studying C + updated my website + Had some fun with compeititve programming + web scraping governement site to receive data related admit card.
+
+### Day 9: January 11, 2017
+
+Started Youbot project which is python based project and the main concept which is used is scraping and data manipulation. Will try to use mechanize at some stage.
