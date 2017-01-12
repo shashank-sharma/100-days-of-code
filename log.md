@@ -37,3 +37,7 @@ Again learning Django + studying C + updated my website + Had some fun with comp
 ### Day 9: January 11, 2017
 
 Started Youbot project which is python based project and the main concept which is used is scraping and data manipulation. Will try to use mechanize at some stage.
+
+### Day 10: January 12, 2017
+
+Day 2 of Youbot project where added downloading functionality with various smart features. Need to add more on this project and everything is going fine.
