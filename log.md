@@ -41,3 +41,7 @@ Started Youbot project which is python based project and the main concept which 
 ### Day 10: January 12, 2017
 
 Day 2 of Youbot project where added downloading functionality with various smart features. Need to add more on this project and everything is going fine.
+
+### Day 11: January 13, 2017
+
+Day 3 of Youbot. Released Youbot v1.0 BETA. There can be so many bugs but yeah I have managed to make it working. More updates need to be made so that it can be used in much efficient way. Looking forward to get some positive response regarding my project.
