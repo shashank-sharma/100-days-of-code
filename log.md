@@ -45,3 +45,7 @@ Day 2 of Youbot project where added downloading functionality with various smart
 ### Day 11: January 13, 2017
 
 Day 3 of Youbot. Released Youbot v1.0 BETA. There can be so many bugs but yeah I have managed to make it working. More updates need to be made so that it can be used in much efficient way. Looking forward to get some positive response regarding my project.
+
+### Day 12: January 14, 2017
+
+Day 4 of Youbot. Today I was too lazy to do anything. Today I also didn't slept, I was just working on this project only. Feeling motivated after writing 500 lines of code. Today I Updated website + Fixed some bug too.
