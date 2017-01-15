@@ -49,3 +49,7 @@ Day 3 of Youbot. Released Youbot v1.0 BETA. There can be so many bugs but yeah I
 ### Day 12: January 14, 2017
 
 Day 4 of Youbot. Today I was too lazy to do anything. Today I also didn't slept, I was just working on this project only. Feeling motivated after writing 500 lines of code. Today I Updated website + Fixed some bug too.
+
+### Day 13: January 15, 2017
+
+Rather than doing Youbot challenge today I studied few algorithms + Learned more about git. After all these thing I worked a bit for my Youbot program.
