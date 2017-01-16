@@ -53,3 +53,8 @@ Day 4 of Youbot. Today I was too lazy to do anything. Today I also didn't slept,
 ### Day 13: January 15, 2017
 
 Rather than doing Youbot challenge today I studied few algorithms + Learned more about git. After all these thing I worked a bit for my Youbot program.
+
+
+### Day 14: January 16, 2017
+
+Today I mostly worked on Algorithms and then I solved one question in hackerearth and then for 1 hour I worked on Youbot adding download queue feature.

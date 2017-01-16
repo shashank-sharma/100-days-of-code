@@ -254,9 +254,16 @@ section#timeline article:nth-child(13) div.inner h2:after {
   background: #teal;
   box-shadow: 5px 10px black;
 }
-section#timeline article:nth-child(12) div.inner h2 {
+section#timeline article:nth-child(14) div.inner h2 {
   background: teal;
 }
-section#timeline article:nth-child(12) div.inner h2:after {
+section#timeline article:nth-child(14) div.inner h2:after {
   background: teal;
+}
+section#timeline article:nth-child(15) div.inner h2 {
+  background: #teal;
+}
+section#timeline article:nth-child(15) div.inner h2:after {
+  background: #teal;
+  box-shadow: 5px 10px black;
 }
