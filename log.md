@@ -48,7 +48,7 @@ Day 3 of Youbot. Released Youbot v1.0 BETA. There can be so many bugs but yeah I
 
 ### Day 12: January 14, 2017
 
-Day 4 of Youbot. Today I was too lazy to do anything. Today I also didn't slept, I was just working on this project only. Feeling motivated after writing 500 lines of code. Today I Updated website + Fixed some bug too.
+Day 4 of Youbot. Today I was too lazy to do anything. Today I also didnt slept, I was just working on this project only. Feeling motivated after writing 500 lines of code. Today I Updated website + Fixed some bug too.
 
 ### Day 13: January 15, 2017
 
@@ -58,3 +58,7 @@ Rather than doing Youbot challenge today I studied few algorithms + Learned more
 ### Day 14: January 16, 2017
 
 Today I mostly worked on Algorithms and then I solved one question in hackerearth and then for 1 hour I worked on Youbot adding download queue feature.
+
+### Day 15: January 17, 2017
+
+Youbot added playlistSearch function which helps you to search playlist video which can be downloaded it later. Also learned few algorithms.
