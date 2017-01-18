@@ -18,10 +18,13 @@ def imgDownload(link,x):
 				print('Failed, connection problem')
 			break
 		else:
-			print 'Finding type of image ',
-			img = urllib2.urlopen(link)
-			q = img.info().type
-			q = q.split('/')[1]
+			print 'Finding type of image - ',
+			try:
+				img = urllib2.urlopen(link)
+				q = img.info().type
+				q = q.split('/')[1]
+			except:
+				print 'Error not an image'
 			try:
 				urlretrieve(link, str(x)+'.'+q)
 				print ' Saved ',str(x)+'.'+q

@@ -62,3 +62,7 @@ Today I mostly worked on Algorithms and then I solved one question in hackereart
 ### Day 15: January 17, 2017
 
 Youbot added playlistSearch function which helps you to search playlist video which can be downloaded it later. Also learned few algorithms.
+
+### Day 16: January 18, 2017
+
+Worked on new python projet Qypo which is a customizable typing helper. It will help you to increase your typing speed. Also going through this it will track all your progress and show them with the help of graph. Also Learned more about git and linux in enki app which is really awesome.
