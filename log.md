@@ -66,3 +66,7 @@ Youbot added playlistSearch function which helps you to search playlist video wh
 ### Day 16: January 18, 2017
 
 Worked on new python projet Qypo which is a customizable typing helper. It will help you to increase your typing speed. Also going through this it will track all your progress and show them with the help of graph. Also Learned more about git and linux in enki app which is really awesome.
+
+### Day 17: January 19, 2017
+
+Worked on Qypo python project by adding more functions. Also had some introduction with Flask which is really interesting. Also studied few daily algorithms and later spent 1 hour with enki app studying git and linux.
