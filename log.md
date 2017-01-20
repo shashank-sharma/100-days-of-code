@@ -70,3 +70,7 @@ Worked on new python projet Qypo which is a customizable typing helper. It will 
 ### Day 17: January 19, 2017
 
 Worked on Qypo python project by adding more functions. Also had some introduction with Flask which is really interesting. Also studied few daily algorithms and later spent 1 hour with enki app studying git and linux.
+
+### Day 18: January 20, 2017
+
+Learn introduction to Flask and had some experience with some basics of Flask. Later studied about algorithms and then again followed enki study materials including git and linux. Also going to participate in January Circuits. Lets hope for the best so that I can increase by rating in Hackerearth.
