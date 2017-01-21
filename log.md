@@ -74,3 +74,7 @@ Worked on Qypo python project by adding more functions. Also had some introducti
 ### Day 18: January 20, 2017
 
 Learn introduction to Flask and had some experience with some basics of Flask. Later studied about algorithms and then again followed enki study materials including git and linux. Also going to participate in January Circuits. Lets hope for the best so that I can increase by rating in Hackerearth.
+
+### Day 19: January 21, 2017
+
+Today was my bad day as i rarely give any time for my programming. But still I managed to do some work in Freecodecamp by solving some algorithm problems.
