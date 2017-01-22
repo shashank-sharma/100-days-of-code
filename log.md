@@ -78,3 +78,7 @@ Learn introduction to Flask and had some experience with some basics of Flask. L
 ### Day 19: January 21, 2017
 
 Today was my bad day as i rarely give any time for my programming. But still I managed to do some work in Freecodecamp by solving some algorithm problems.
+
+### Day 20: January 22, 2017
+
+Created python project fabot which helps you to access facebook through program rather than using browser.
