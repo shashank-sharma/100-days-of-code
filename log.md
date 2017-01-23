@@ -82,3 +82,7 @@ Today was my bad day as i rarely give any time for my programming. But still I m
 ### Day 20: January 22, 2017
 
 Created python project fabot which helps you to access facebook through program rather than using browser.
+
+### Day 21: January 23, 2017
+
+Added fabot messenger function which lets you read and send messages. Thinking of creating a automatic bot of facebook. Lets hope for the best.
