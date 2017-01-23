@@ -305,3 +305,10 @@ section#timeline article:nth-child(20) div.inner h2 {
 section#timeline article:nth-child(20) div.inner h2:after {
   background: #e74c3c;
 }
+section#timeline article:nth-child(21) div.inner h2 {
+  background: teal;
+}
+section#timeline article:nth-child(21) div.inner h2:after {
+  background: teal;
+  box-shadow: 5px 10px black;
+}
