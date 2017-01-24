@@ -86,3 +86,7 @@ Created python project fabot which helps you to access facebook through program 
 ### Day 21: January 23, 2017
 
 Added fabot messenger function which lets you read and send messages. Thinking of creating a automatic bot of facebook. Lets hope for the best.
+
+### Day 22: January 24, 2017
+
+Created shashank-sharma.github.io personal blog which shows all my projects. Blog was created in github pages with materialize css.
