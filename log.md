@@ -90,3 +90,7 @@ Added fabot messenger function which lets you read and send messages. Thinking o
 ### Day 22: January 24, 2017
 
 Created shashank-sharma.github.io personal blog which shows all my projects. Blog was created in github pages with materialize css.
+
+### Day 23: January 25, 2017
+
+Today I got less time still I managed to work on fabot project. Added new function notifications which let users to check notification of their profile also added some interactive user interface which let user to use this program much easily. Plus also checked some end cases for this program to avoid program to break.
