@@ -318,3 +318,10 @@ section#timeline article:nth-child(22) div.inner h2 {
 section#timeline article:nth-child(22) div.inner h2:after {
   background: #e74c3c;
 }
+section#timeline article:nth-child(23) div.inner h2 {
+  background: #e74c3c;
+}
+section#timeline article:nth-child(23) div.inner h2:after {
+  background: #e74c3c;
+  box-shadow: 5px 10px black;
+}
