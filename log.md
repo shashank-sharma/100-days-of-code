@@ -94,3 +94,7 @@ Created shashank-sharma.github.io personal blog which shows all my projects. Blo
 ### Day 23: January 25, 2017
 
 Today I got less time still I managed to work on fabot project. Added new function notifications which let users to check notification of their profile also added some interactive user interface which let user to use this program much easily. Plus also checked some end cases for this program to avoid program to break.
+
+### Day 24: January 26, 2017
+
+Today I learn more about cookies and implemented this in fabot. Using this it will give one tie authentication option. It will save cookies session in .cookies.txt file which will be hidden and if program will found any cookies.txt file then it will load it and authenticate it.
