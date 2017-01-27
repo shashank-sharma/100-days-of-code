@@ -98,3 +98,7 @@ Today I got less time still I managed to work on fabot project. Added new functi
 ### Day 24: January 26, 2017
 
 Today I learn more about cookies and implemented this in fabot. Using this it will give one tie authentication option. It will save cookies session in .cookies.txt file which will be hidden and if program will found any cookies.txt file then it will load it and authenticate it.
+
+### Day 25: January 27, 2017
+
+Added search user function which will help any user to search any particular user information by scraping facebook user.
