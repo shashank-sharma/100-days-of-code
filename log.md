@@ -102,3 +102,7 @@ Today I learn more about cookies and implemented this in fabot. Using this it wi
 ### Day 25: January 27, 2017
 
 Added search user function which will help any user to search any particular user information by scraping facebook user.
+
+### Day 26: January 28, 2017
+
+Fixed bugs in fabot program. After few days I noticed that facebook site div class kept on changing. So I changed some variables to make it work. Now its working fine.
