@@ -106,3 +106,7 @@ Added search user function which will help any user to search any particular use
 ### Day 26: January 28, 2017
 
 Fixed bugs in fabot program. After few days I noticed that facebook site div class kept on changing. So I changed some variables to make it work. Now its working fine.
+
+### Day 27: January 29, 2017
+
+Solved some competitive questions in hackerearth.

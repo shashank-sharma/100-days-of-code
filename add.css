@@ -344,3 +344,10 @@ section#timeline article:nth-child(26) div.inner h2 {
 section#timeline article:nth-child(26) div.inner h2:after {
   background: teal;
 }
+section#timeline article:nth-child(27) div.inner h2 {
+  background: black;
+}
+section#timeline article:nth-child(27) div.inner h2:after {
+  background: black;
+  box-shadow: 5px 10px black;
+}
