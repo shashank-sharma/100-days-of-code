@@ -110,3 +110,7 @@ Fixed bugs in fabot program. After few days I noticed that facebook site div cla
 ### Day 27: January 29, 2017
 
 Solved some competitive questions in hackerearth.
+
+### Day 28: January 30, 2017
+
+Tomorrow is my maths exam due to which I was not able to give enough time to this day. Still I managed to do some coding related python and learned some algorithms.
