@@ -114,3 +114,7 @@ Solved some competitive questions in hackerearth.
 ### Day 28: January 30, 2017
 
 Tomorrow is my maths exam due to which I was not able to give enough time to this day. Still I managed to do some coding related python and learned some algorithms.
+
+### Day 29: January 31, 2017
+
+Last day of january 17 again got less time to do work. Again tomorrow i will code less and then afterwards i will start my coding spree again with full enthusiasm. :D

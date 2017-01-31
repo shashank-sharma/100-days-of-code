@@ -357,3 +357,10 @@ section#timeline article:nth-child(28) div.inner h2 {
 section#timeline article:nth-child(28) div.inner h2:after {
   background: black;
 }
+section#timeline article:nth-child(29) div.inner h2 {
+  background: black;
+}
+section#timeline article:nth-child(29) div.inner h2:after {
+  background: black;
+  box-shadow: 5px 10px black;
+}
