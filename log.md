@@ -118,3 +118,7 @@ Tomorrow is my maths exam due to which I was not able to give enough time to thi
 ### Day 29: January 31, 2017
 
 Last day of january 17 again got less time to do work. Again tomorrow i will code less and then afterwards i will start my coding spree again with full enthusiasm. :D
+
+### Day 30: Feburary 1, 2017
+
+Studied some problems and tricks in hackerearth and solved it nothing more. From tomorrow I'll be working on my projects again like a boss. :D
