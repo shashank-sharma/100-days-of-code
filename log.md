@@ -121,4 +121,17 @@ Last day of january 17 again got less time to do work. Again tomorrow i will cod
 
 ### Day 30: Feburary 1, 2017
 
-Studied some problems and tricks in hackerearth and solved it nothing more. From tomorrow I'll be working on my projects again like a boss. :D
+Studied some problems and tricks in hackerearth and solved it nothing more. From tomorrow I will be working on my projects again like a boss. :D
+
+
+### Day 31: Feburary 2, 2017
+
+Another black day with nothing productive but still kept my 100 days of code on
+
+### Day 32: Feburary 3, 2017
+
+Youbot Finalizing project will take 2 - 3 days and then i will complete it. Also did some competitive programming in hackerearth.
+
+### Day 33: Feburary 4, 2017
+
+Youbot v1.1 BETA version released. Added loads of functions which are totally awesome. Also started Django tutorials and now i am able to understand so many things.
