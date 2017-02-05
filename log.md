@@ -135,3 +135,7 @@ Youbot Finalizing project will take 2 - 3 days and then i will complete it. Also
 ### Day 33: Feburary 4, 2017
 
 Youbot v1.1 BETA version released. Added loads of functions which are totally awesome. Also started Django tutorials and now i am able to understand so many things.
+
+### Day 34: Feburary 5, 2017
+
+Youbot v1.1 released. Now i will work on different project. Also studied algorithms + NPTEL courses. Also will try to program in C++.
