@@ -411,8 +411,15 @@ section#timeline article:nth-child(35) div.inner h2:after {
   box-shadow: 5px 10px black;
 }
 section#timeline article:nth-child(36) div.inner h2 {
-  background: #e74c3c;
+  background: teal;
 }
 section#timeline article:nth-child(36) div.inner h2:after {
+  background: teal;
+}
+section#timeline article:nth-child(37) div.inner h2 {
   background: #e74c3c;
+}
+section#timeline article:nth-child(37) div.inner h2:after {
+  background: #e74c3c;
+  box-shadow: 5px 10px black;
 }
