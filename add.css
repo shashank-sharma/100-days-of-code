@@ -501,3 +501,9 @@ section#timeline article:nth-child(49) div.inner h2:after {
   background: teal;
   box-shadow: 5px 10px black;
 }
+section#timeline article:nth-child(50) div.inner h2 {
+  background: teal;
+}
+section#timeline article:nth-child(50) div.inner h2:after {
+  background: teal;
+}
