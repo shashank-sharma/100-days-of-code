@@ -683,3 +683,9 @@ section#timeline article:nth-child(77) div.inner h2:after {
   background: teal;
   box-shadow: 5px 10px black;
 }
+section#timeline article:nth-child(78) div.inner h2:after {
+  background: teal;
+}
+section#timeline article:nth-child(78) div.inner h2 {
+  background: teal;
+}
