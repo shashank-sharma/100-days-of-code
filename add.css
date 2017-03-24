@@ -702,3 +702,10 @@ section#timeline article:nth-child(80) div.inner h2:after {
 section#timeline article:nth-child(80) div.inner h2 {
   background: teal;
 }
+section#timeline article:nth-child(81) div.inner h2 {
+  background: teal;
+}
+section#timeline article:nth-child(81) div.inner h2:after {
+  background: teal;
+  box-shadow: 5px 10px black;
+}
