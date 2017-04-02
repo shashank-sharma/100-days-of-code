@@ -761,3 +761,9 @@ section#timeline article:nth-child(89) div.inner h2:after {
   background: #e74c3c;
   box-shadow: 5px 10px black;
 }
+section#timeline article:nth-child(90) div.inner h2:after {
+  background: teal;
+}
+section#timeline article:nth-child(90) div.inner h2 {
+  background: teal;
+}
