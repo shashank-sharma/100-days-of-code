@@ -774,3 +774,9 @@ section#timeline article:nth-child(91) div.inner h2:after {
   background: #e74c3c;
   box-shadow: 5px 10px black;
 }
+section#timeline article:nth-child(92) div.inner h2:after {
+  background: #e74c3c;
+}
+section#timeline article:nth-child(92) div.inner h2 {
+  background: #e74c3c;
+}
