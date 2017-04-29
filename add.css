@@ -854,4 +854,11 @@ section#timeline article:nth-child(104) div.inner h2:after {
   background: teal;
 }
 section#timeline article:nth-child(104) div.inner h2 {
-  back
+  background: teal;
+}
+section#timeline article:nth-child(105) div.inner h2:after {
+  background: teal;
+}
+section#timeline article:nth-child(105) div.inner h2 {
+  background: teal;
+}
