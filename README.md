@@ -2,6 +2,7 @@
 
 ## Contents
 * [Log - click here to see my progress](log.md)
+Ot here shashank-sharma.github.io/100-days-of-code
 
 ## Projects
 
