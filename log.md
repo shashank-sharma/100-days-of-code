@@ -139,3 +139,5 @@ Youbot v1.1 BETA version released. Added loads of functions which are totally aw
 ### Day 34: Feburary 5, 2017
 
 Youbot v1.1 released. Now i will work on different project. Also studied algorithms + NPTEL courses. Also will try to program in C++.
+
+Rest in websites
